@@ -1,4 +1,5 @@
-# clase-markdowngh
+# clase-markdown
+
 **Texto**
 Option*
 ***Texto***
@@ -36,9 +37,14 @@ _Texto_
 
  
  [proyectodep5] (https://url.com)
- ![textoalternativo] (https://url-de-la-imagen.jpg)
+
+ 
+ ***imagen***
+
+ 
+ ![perro salchicha](https://www.elmueble.com/mascotas/teckel-perro-salchicha-caracteristicas-caracter-y-cuidados_51218)
+ 
 
 
-***
     
 
