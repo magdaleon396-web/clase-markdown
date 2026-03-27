@@ -202,6 +202,36 @@ anteriormente. Se considera la maquina de calculo completamente automática.
 
   Es una herramienta online para aprender a programar y hacer arte.
   Es una biblioteca de JavaScript libre y de codigo abierto.
+
+
+
+  **CLASE 2 pensamiento computacional**
+  
+  
+  ***clase pj5***
+  
+  
+
+
+
+  ***Diagrama de flujo***
+
+  Representación grafica de algoritmo o de los pasos de un proceso.
+  Se utiliza como una herramienta de planificación. 
+
+
+  ***Lenguajes de programación***
+
+  Existen entre 700 y 900 lenguajes de programación que se utilizan actualmente en la 
+  industria.
+
+
+  ***P5.js***
+
+  Es una biblioteca de Java scrip. 
+
+  
+
   
 
   
