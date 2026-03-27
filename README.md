@@ -230,6 +230,16 @@ anteriormente. Se considera la maquina de calculo completamente automática.
 
   Es una biblioteca de Java scrip. 
 
+
+  ***Dibujar en P5.js***
+  El canvas fubciona como un sistema de cordenadas, como 
+  un plano cartesiano.
+  Pero hay que tener en cuenta que el (0,0) no esta en el 
+  centro, si no en la esquina superior izquierda.
+
+  ***stroke***
+  Se utiliza para dibujar puntos, lineas y contornos de figuras.
+   Siempre se pone arriba del stroke
   
 
   
