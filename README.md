@@ -117,8 +117,101 @@ anteriormente. Se considera la maquina de calculo completamente automática.
 
   ***John and James Whitney***
 
-  Fueron los pioneros en el trabajo con john james whitney
+  Fueron los pioneros en el trabajo con computer graphics animation.
 
+  Recuperó un computador analógico de la segunda guerra mundial y lo modificón.
+  convirtió los voltajes en movimientos de camára y luz para pintar sobre celuloide.
+  Introducen el concepto de diseño paramétrico y movimiento armónico.
+
+
+  ***Sketchpad Ivan sutherland***
+
+  En 1963 Sutherland creo el primero programa informático que permitia dibujar directamente
+  en una pantalla usando un lápiz óptico.
+  Pionero en la computación humano-computador (HCI)
+  Introdujo la programación orientada a objetos (POO) de forma visual.
+
+
+  **Democratización del creative coding**
+
+  El software nace en 1983, cuando Richard
+  Stallman anuncio el inicio del proyecto GNU
+  La idea era crear un sistema operativo libre
+
+  En 1985 se publica el manifiesto GNU y se funda la free
+  software foundation.
+
+
+  ***Software libre***                                    
+
+
+  *  Etico y social. Se trata de derechos y libertades mortales
+  *  Libertad del usuario es lo más importante
+  *  El usuario debe tener control de su informática
+  *  El software privativo se considera un problema ético o antisocial
+  *  FSF (free software foundation)
+  *  Richard Stallman (fundador de gnu)
+
+
+  ***Open source***
+
+  *  Práctico y técnico. Se trata de una metodología de desarrollo eficiente.
+  *  La calidad del software y la colaboración son los más importante.
+  *  EL código abierto permite que más ojos revisen errores y mejoren el producto.
+  *  El software privativo es aceptable, pero el modelo abierto se considera tecnicamente superior.
+  *  OSI (Open source iniciative)
+  *  Erics S. Raymond/ Bruce Perens.
+
+
+  ***Design by numbers***
+
+  
+  Experimento educativo readical, lanzado en 1999 por John Maeda en el MIT
+  media lab.
+  Consistía en un lenguaje de programación y entorno diseñado específicamente
+  para enseñar a diseñadores visuales a programar.
+
+  Todo el trabajo era una cuadricula fija de 100x100 pixeles. 
+
+  No había colores RGB complejos. Solo existía el "porcentaje de tinca". 
+  0 blanco (papel vacío) y 100 era negro total.
+
+  Maeda elimino los puntos y comas, las llaves complejas y las declaraciones de 
+  tipo variables.
+
+
+  ***Processing***
+
+  El software libre, de codigo abierto y gratuito, permite a profesionales
+  a crear gráficos estando disponible para Windows, macOS y Linux.
+
+  Creado en el MIT Medialab por 2 estudiantes de John Maeda: Ben Fry y 
+  Casey Reas, en el año 2001.
+
+  Quisieron expandir las limitaciones de design by numbers.
+
+  Agregaron la paleta de color y el tamaño variable.
+
+  Mantuvieron la simplicidad en la sintaxis en el codigo y la idea del 
+  "Sketchbook".
+
+  ***P5.Js***
+
+  
+  **Lauren Macarthy**
+
+  Es una herramienta online para aprender a programar y hacer arte.
+  Es una biblioteca de JavaScript libre y de codigo abierto.
+  
+
+  
+
+  
+
+  
+  
+ 
+  
   
  
   
