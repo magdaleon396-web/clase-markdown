@@ -240,6 +240,8 @@ anteriormente. Se considera la maquina de calculo completamente automática.
   ***stroke***
   Se utiliza para dibujar puntos, lineas y contornos de figuras.
    Siempre se pone arriba del stroke
+
+  
   
 
   
