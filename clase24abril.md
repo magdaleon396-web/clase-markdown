@@ -44,21 +44,26 @@ Es cuando ocurre un evento específico y el sistema responde con una interacció
 **Funciones propias**
 
 -Modularidad al codigo
--Reusabilidad:
+-Reusabilidad
 
 ***
+
 function(){
  background(147,104,166);
  dibujar figuras();
  }
+
+ 
 function Dibujarfiguras(){
  stroke();
  stroWeight(4);
  fil();
  ellipse(pelota.X,pelota.Y,24,24);
  }
+ 
 ***
 
+ 
 
 
 
